@@ -1,0 +1,27 @@
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+.product-container #productImg {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+  object-fit: cover;
+}
+
+.buyBtn {
+  padding: 0.7rem 2rem;
+  color: black;
+}
+
+#paymentModal .paymentMethod {
+  display: block;
+  border: 2px solid blue;
+  margin: 0.5rem;
+  padding: 0.8rem;
+  text-decoration: none;
+  border-radius: 1rem;
+}
+.col-md-6 {
+  margin: 1.5em 0;
+}
